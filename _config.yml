@@ -6,4 +6,4 @@ color_scheme: dark
 
 remote_theme: pmarsceill/just-the-docs
 plugins:
-  - jekyll-remote-theme
+  - jekyll-remote-theme 
